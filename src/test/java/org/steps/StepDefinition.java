@@ -33,7 +33,8 @@ public class StepDefinition extends BaseClass{
 	   String name = (String)object;
 	   Assert.assertEquals("Lindsay", name);
 	   System.out.println("=============Response Body is validated====");
-	   
+	   System.out.println("QA Work");
+	   System.out.println("QA work completed");
 	    
 	}
 
