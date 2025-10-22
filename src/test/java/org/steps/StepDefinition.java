@@ -35,6 +35,10 @@ public class StepDefinition extends BaseClass{
 	   System.out.println("=============Response Body is validated====");
 	   System.out.println("Work Done by Developer");
 	   System.out.println("Developer Completed");
+	   System.out.println("QA Work");
+	   System.out.println("QA work completed");
+
+	   
 	    
 	}
 
